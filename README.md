@@ -1,16 +1,29 @@
-# jesus
+# JESUS
 
-A new Flutter project.
+Aplicación Flutter que muestra el texto "JESUS" centrado en la pantalla. Diseñada como un punto de partida para futuros proyectos móviles.
 
-## Getting Started
+## 📱 Captura
 
-This project is a starting point for a Flutter application.
+Pantalla principal con:
 
-A few resources to get you started if this is your first Flutter project:
+- Título en la AppBar: `JESUS`
+- Texto central: `JESUS`
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Cómo ejecutar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Abre el proyecto en tu editor (VS Code o Android Studio).
+2. Asegúrate de tener Flutter instalado y configurado.
+3. Ejecuta el siguiente comando:
+
+```bash
+flutter run -t lib/jesus.dart
+
+📁 Estructura
+
+lib/jesus.dart: Archivo principal de la app.
+
+.gitignore: Configurado para evitar subir archivos temporales, SDKs o binarios no permitidos.
+
+🛡️ Legal
+
+Este proyecto no incluye SDKs, imágenes, ni librerías con licencias restringidas. Es completamente libre de ser compartido y modificado.
